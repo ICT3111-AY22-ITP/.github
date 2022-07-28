@@ -24,6 +24,13 @@ All features should be created as a feature branch.
   > - `feat/<server/client>/<feature-name>`
   > - example `feat/api/dashboard` or `feat/client/dashboard`
 
+## Bugfix Branch for Sensors
+
+- Branches will branch off from `develop` branch instead of `main`
+- Branch to be named as
+  > - `devbug/<bugs-name>`
+  > - example `devbug/driver` or `devbug/light-sensor`
+
 ## Commit Messages
 
 - `feat` - new feature
